@@ -1,4 +1,4 @@
-//Trabalho Web Scrpaing: httpbin.org 
+//Trabalho Web Scrapaing: httpbin.org 
 function teste() {
     fetch("https://httpbin.org/html")
         .then(resp => {
